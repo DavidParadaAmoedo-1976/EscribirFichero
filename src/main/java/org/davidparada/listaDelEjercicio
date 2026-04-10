@@ -1,0 +1,9 @@
+- Todos los números introducidos por el usuario, conservando el orden en el que fueron introducidos.
+- El número total de números introducidos.
+- La suma de todos los números introducidos.
+- El número más grande introducido.
+- El número más pequeño introducido.
+- El número medio de los números introducidos.
+- La mediana de los números introducidos.
+- La moda de los números introducidos.
+- El listado de los números introducidos, sin repetición, ordenados de mayor a menor seguidos del número de veces que se ha introducido cada uno.
